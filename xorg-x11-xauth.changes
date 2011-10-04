@@ -1,0 +1,12 @@
+* Tue Aug 03 2010 Liu, Xinyun <xinyun.liu@intel.com> - 1.0.4
+- Update to 1.0.4. Remove patches and fix build requires
+
+* Wed Jun 23 2010 Li Peng <peng.li@intel.com> 1.0.3
+- Add %doc for man pages
+
+* Fri Dec 19 2008 Anas Nashif <anas.nashif@intel.com> 1.0.3
+- Provide xauth, mkxauth
+
+* Fri Dec 19 2008 Peng Li <peng.li@intel.com> 1.0.3
+- use spec builder to generate spec file
+
