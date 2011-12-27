@@ -1,6 +1,6 @@
 Name: xorg-x11-xauth
 Summary: X.Org X11 X authority utilities
-Version: 1.0.4
+Version: 1.0.6
 Release: 1
 Group: System/X11
 License: MIT/X11
@@ -15,5 +15,9 @@ PkgConfigBR:
     - xau
     - xext
     - xmuu
-Provides: xauth mkxauth
+Provides: 
+    - xauth 
+    - mkxauth
 Configure: configure
+Description: |
+    %{summary}.
